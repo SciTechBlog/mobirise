@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Blog Site",
-    "currentPage": "rssfeed.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
